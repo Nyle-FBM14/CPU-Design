@@ -1,0 +1,1 @@
+This is a project for the Toronto Metropolitan University COE608 Computer Organization and Architecture course. See the report for more details about the project and waveform results when simulating the CPU.
